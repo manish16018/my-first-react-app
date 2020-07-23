@@ -18,11 +18,6 @@ class App extends React.Component{
           id : uuid.v4() ,
           name :'manish',
           sname :'kumar'
-        },
-        {
-          id : uuid.v4() ,
-          name : 'pooja',
-          sname : 'singh'
         }
       ]
     }
